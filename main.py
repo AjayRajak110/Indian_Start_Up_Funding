@@ -121,7 +121,3 @@ elif option == 'Investor':
     btn2 = st.sidebar.button('Find Investors Details')
     if btn2:
         load_investor_details(selected_investor)
-
-
-# GENERAL ANALYSIS
-# MOM chart-> Total + Count
